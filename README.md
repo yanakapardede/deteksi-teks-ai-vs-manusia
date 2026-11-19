@@ -180,6 +180,3 @@ pip install pandas numpy matplotlib seaborn nltk scikit-learn wordcloud
 ```
 
 > Notebook menyimpan `cleaned_dataset.csv` dan `tfidf_features.csv` ke folder output. Kedua file berukuran besar, sehingga tidak disertakan di repository.
-**PROJECT AKHIR PEMROSESAN TEKS – KELOMPOK 10**  
-S1 Sains Data | Fakultas Matematika dan Ilmu Pengetahuan Alam | Universitas Negeri Surabaya  
-Semester Gasal 2025/2026
